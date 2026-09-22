@@ -1,0 +1,6 @@
+{
+  "name": "Mestre das Áreas - Descritor 12",
+  "description": "Jogo interativo de Matemática do Descritor 12 para o 5º ano do Ensino Fundamental. Desafios progressivos de cálculo e estimativa de áreas em malhas quadriculadas com pontuação e feedback pedagógico imediato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
